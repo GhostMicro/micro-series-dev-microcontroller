@@ -1,0 +1,29 @@
+site_name: Roadmap นักพัฒนา Microcontroller (จากศูนย์สู่มือโปร)
+site_url: https://GhostMicro.github.io/micro-series-dev-microcontroller/
+repo_url: https://github.com/GhostMicro/micro-series-dev-microcontroller
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.follow
+    - search.highlight
+    - search.share
+
+nav:
+  - หน้าแรก (Intro): index.md
+  - "ตอนที่ 1: โลกของ Microcontroller เลือกตัวไหนดี?": ep01.md
+  - "ตอนที่ 2: Arduino Uno R4: จุดเริ่มต้นของทุกคน": ep02.md
+  - "ตอนที่ 3: ESP32: มหาอำนาจแห่ง IoT (ตอนที่ 1)": ep03.md
+  - "ตอนที่ 4: ESP32: เชื่อมต่อโลกอินเทอร์เน็ต (ตอนที่ 2)": ep04.md
+  - "ตอนที่ 5: STM32: ก้าวสู่มาตรฐานอุตสาหกรรม": ep05.md
+  - "ตอนที่ 6: Raspberry Pi: คอมพิวเตอร์จิ๋วที่ทำได้ทุกอย่าง": ep06.md
+  - "ตอนที่ 7: Raspberry Pi + Python: ควบคุม Hardware": ep07.md
+  - "ตอนที่ 8: การเลือกใช้แหล่งจ่ายไฟ (Power Supply)": ep08.md
+  - "ตอนที่ 9: Communication Protocols: คุยกันยังไง?": ep09.md
+  - "ตอนที่ 10: Project Final: รวมพลังสร้างระบบ Smart Home": ep10.md
+  - เกี่ยวกับเรา (About Us): about.md
