@@ -1,6 +1,7 @@
 site_name: Roadmap นักพัฒนา Microcontroller (จากศูนย์สู่มือโปร)
 site_url: https://GhostMicro.github.io/micro-series-dev-microcontroller/
 repo_url: https://github.com/GhostMicro/micro-series-dev-microcontroller
+
 theme:
   name: material
   palette:
@@ -25,3 +26,25 @@ nav:
   - "ตอนที่ 9: Communication Protocols: คุยกันยังไง?": ep09.md
   - "ตอนที่ 10: Project Final: รวมพลังสร้างระบบ Smart Home": ep10.md
   - เกี่ยวกับเรา (About Us): about.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.tabbed:
+      alternate_style: true
+  - footnotes
+  - toc:
+      permalink: true
+  - def_list
+  - attr_list

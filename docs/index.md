@@ -21,5 +21,14 @@
 
 ---
 
+## ตัวอย่างการแสดงวิดีโอจาก YouTube
+
+คุณสามารถใช้การแสดงผลที่สวยงามขึ้นด้วย Material Extensions ครับ:
+
+!!! abstract "วิดีโอ YouTube"
+<iframe width="100%" height="315" src="www.youtube.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 > [!TIP]
 > สำหรับผู้เริ่มต้น แนะนำให้เริ่มจากตอนที่ 1 เพื่อทำความเข้าใจภาพรวมก่อนเลือกซื้ออุปกรณ์ครับ!
