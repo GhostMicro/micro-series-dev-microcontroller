@@ -26,6 +26,7 @@ nav:
   - "ตอนที่ 9: Communication Protocols: คุยกันยังไง?": ep09.md
   - "ตอนที่ 10: Project Final: รวมพลังสร้างระบบ Smart Home": ep10.md
   - เกี่ยวกับเรา (About Us): about.md
+  - แหล่งเรียนรู้เพิ่มเติม: resources.md
 
 plugins:
   - search
