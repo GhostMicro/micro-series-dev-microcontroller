@@ -18,16 +18,3 @@
 | **10** | **Project Final: รวมพลังสร้างระบบ Smart Home**    | สรุปผลและแนวทางการต่อยอด                 |
 
 ---
-
----
-
-## ตัวอย่างการแสดงวิดีโอจาก YouTube
-
-คุณสามารถใช้การแสดงผลที่สวยงามขึ้นด้วย Material Extensions ครับ:
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=tiGw9PQbvrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-> [!TIP]
-> สำหรับผู้เริ่มต้น แนะนำให้เริ่มจากตอนที่ 1 เพื่อทำความเข้าใจภาพรวมก่อนเลือกซื้ออุปกรณ์ครับ!
