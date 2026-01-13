@@ -24,7 +24,7 @@
 คุณสามารถจำลองการนำวิดีโอมาใส่ใน MkDocs ได้ง่ายๆ โดยใช้ `<iframe>` ซึ่งเป็นมาตรฐานที่ YouTube ให้มาครับ:
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-    <iframe src="https://www.youtube.com/embed/nL3464KGXJI" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    <iframe src="https://www.youtube.com/watch?v=EYfL6kKyhqg" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
 > [!TIP]
